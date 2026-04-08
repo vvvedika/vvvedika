@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hello, This is Vedika
 
-<!--
-**vvvedika/vvvedika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student exploring Computer Science  
+💻 Learning Python (CS50P)  
+🧠 Focused on logic & deep understanding  
+🚀 Turning ideas into code  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ What I'm Doing
+- 📚 Solving CS50P problem sets  
+- 🧩 Improving problem-solving skills  
+- ✍️ Writing clean, readable code  
+
+---
+
+## 🧠 Skills (Growing)
+- Python 🐍  
+- Logical Thinking 🧠  
+- Problem Solving 🧩  
+
+---
+
+## 🎯 Goals
+- Build strong programming fundamentals  
+- Work on meaningful projects  
+- Contribute to open source  
+
+---
+
+## 📊 GitHub Stats
+![Vedika's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvvedika&show_icons=true)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=vvvedika)
+
+---
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![CS50P](https://img.shields.io/badge/CS50P-Harvard-red)
+
+---
+
